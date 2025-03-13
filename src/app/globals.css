@@ -3,6 +3,13 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --text-primary: #924B8F;
+  --text-secondary: #6D0C70;
+  --text-tersier: #FE7265;
+  --text-neutral: #ffffff;
+  --bg-primary: #ffffff;
+  --bg-secondary: #000000;
+  --bg-accent: #924B8F;
 }
 
 @theme inline {
