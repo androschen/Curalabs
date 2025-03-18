@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="container text-[var(--text-primary)] bg-[var(--bg-primary)] px-8 py-4 flex justify-between items-center shadow-md p-4">
+    <header className="text-[var(--text-primary)] bg-[var(--bg-primary)] px-8 py-4 flex justify-between items-center shadow-md p-4">
       <div className="flex items-center justify-between gap-3">
         <div>
           LogoIps

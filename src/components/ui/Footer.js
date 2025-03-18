@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function Footer() {
   return (
-    <footer className="container fixed w-full text-center text-[var(--text-secondary)] bg-[var(--bg-accent)]/39 shadow-md bottom-0"> 
+    <footer className="fixed w-full text-center text-[var(--text-secondary)] bg-[var(--bg-accent)]/39 shadow-md bottom-0"> 
       <div className="w-full flex flex-col space-y-4 py-4 px-8">
         <div className="grid lg:grid-cols-3 md:grid-cols-2 justify-evenly">
           <div className="flex flex-col items-center">
